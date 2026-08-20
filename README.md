@@ -1,81 +1,108 @@
-# Hi there, I'm Dameer Ahmed Ghouri 👋
-
 <div align="center">
 
-![Header Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%26+Full-Stack+Engineer;LangChain+%7C+LangGraph+%7C+MCP+Specialist;Building+Autonomous+AI+Workflows;Transforming+Ideas+Into+Intelligent+Code)
+# 👋 Hi, I'm Dameer Ahmed Ghouri
 
-[![GitHub followers](https://img.shields.io/github/followers/dameerahmedghouri?style=social)](https://github.com/dameerahmedghouri)
-[![GitHub stars](https://img.shields.io/github/stars/dameerahmedghouri?style=social)](https://github.com/dameerahmedghouri)
+### 🚀 Python Backend & Agentic AI Developer
+**Building Scalable Backends & Autonomous Multi-Agent Orchestration Systems**
+
+📍 Nawabshah, Sindh, Pakistan | 🎓 BS Data Science @ QUEST University ('28)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dameer-ahmed-ghouri-73045131a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dameerahmedghouri05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dameerahmedghouri)
+
+![Header Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=Python+Backend+%26+FastAPI+Developer;Agentic+AI+%7C+LangChain+%7C+LangGraph;Model+Context+Protocol+(MCP)+Workflows;Data+Science+Student+%40+QUEST+University)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## ⚡ About Me
 
-I am a passionate **AI Agent Developer & Full-Stack Engineer** dedicated to building cutting-edge artificial intelligence systems, multi-agent workflows, and scalable web/mobile applications. My primary focus revolves around **LLMs**, **LangChain**, **LangGraph**, and the **Model Context Protocol (MCP)**.
+I am a **Python Backend & Agentic AI Developer** with a solid foundation in Data Science from QUEST University. My engineering focus lies at the intersection of **high-performance backend infrastructure** and **autonomous AI agent orchestration**. 
 
-- 🤖 **Specialization:** Building autonomous AI agents, multi-agent graphs, RAG pipelines, and conversational tools.
-- ⚡ **Technologies:** Python, TypeScript, JavaScript, Node.js, React, LangChain, LangGraph, MCP, Next.js.
-- 🎯 **Current Focus:** Advanced multi-agent orchestration, context-aware AI tools, and enterprise automation.
-- 💬 **Ask me about:** AI Agent Architecture, LangChain/LangGraph, MCP Servers, and Web Development.
+- ⚙️ **Backend Engineering:** Architecting asynchronous RESTful APIs using **FastAPI**, **SQL**, and event-driven architectures.
+- 🤖 **Agentic AI & Orchestration:** Designing autonomous agent workflows, stateful multi-agent graphs (**LangGraph**), LLM chains (**LangChain**), and integrations via **MCP (Model Context Protocol)**.
+- 📊 **Database & Data Management:** Designing relational schemas with **PostgreSQL**, **MySQL**, and serverless **Neon DB**.
+- 🛠️ **Modern Workflows:** Leveraging cutting-edge tooling like the **`uv` Package Manager** for lightning-fast Python dependency resolution and reproducible builds.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Core Tech Stack
 
-<div align="center">
-
-#### **AI & Machine Learning**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-#### **Full-Stack & Web Development**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🔌 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-000000?style=for-the-badge&logo=github&logoColor=white)
 
-#### **Tools & Automation**
+### 🤖 Agentic AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-24292E?style=for-the-badge&logo=github&logoColor=white)
+![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-7A00FF?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neon DB](https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=database&logoColor=black)
+
+### 🛠️ Tools & Package Managers
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_Agent-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![uv](https://img.shields.io/badge/uv_Package_Manager-DE5D43?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🤖 **[LangGraph-Zero-to-Hero](https://github.com/dameerahmedghouri/LangGraph-Zero-to-Hero)** | Comprehensive guide & code for building stateful multi-agent graphs. | Python, LangGraph, LLMs |
-| 💬 **[whatsapp-agent](https://github.com/dameerahmedghouri/whatsapp-agent)** | Autonomous AI assistant for WhatsApp with tool integration. | Python, LangChain, API |
-| 🔌 **[teast_MCP](https://github.com/dameerahmedghouri/teast_MCP)** | Model Context Protocol server implementation & testing. | Python, MCP, Anthropic/OpenAI |
-| 🔗 **[langChain_practice](https://github.com/dameerahmedghouri/langChain_practice)** | Production patterns for RAG, prompt engineering, and agent chains. | Python, LangChain |
-| 🕌 **[Sajdah-Connect-App](https://github.com/dameerahmedghouri/Sajdah-Connect-App)** | Daily prayer and community application. | Mobile / Web |
-| 🌐 **[dameer-ahmed-portfolio](https://github.com/dameerahmedghouri/dameer-ahmed-portfolio)** | Personal developer portfolio website. | HTML, CSS, JavaScript |
+### 🎓 1. AI-Integrated University Management System (UMS)
+- Developed an asynchronous **FastAPI** & **SQL** backend to manage complex academic workflows.
+- Embedded autonomous data retrieval agents powered by **LangChain** to allow natural-language querying of university records.
+- **Tech Tags:** `FastAPI` • `Python` • `SQL` • `LangChain` • `PostgreSQL`
+
+### 💬 2. WhatsApp API Automation System
+- Built real-time automated messaging workflows integrated with the **Meta WhatsApp Business API**.
+- Implemented intelligent tool-calling and response parsing for seamless end-user interactions.
+- **Tech Tags:** `Python` • `WhatsApp Business API` • `FastAPI` • `Webhooks`
+
+### 💼 3. Production Backend & Orchestration Architectures
+- Designed production-grade microservice components and multi-agent graphs using **LangGraph** & **MCP**.
+- Optimized dependency management and build speeds using the **`uv` package manager**.
+- **Tech Tags:** `LangGraph` • `MCP` • `Python` • `uv` • `Multi-Agent Systems`
 
 ---
 
-### 📈 GitHub Stats
+## 📜 Certifications
+
+- 🏆 **Python Development (PITP)** — Sukkur IBA University @ QUEST
+- 🏆 **Data Science Professional Certification (PITP)** — Sukkur IBA University
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Dameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dameerahmedghouri&show_icons=true&theme=tokyonight&hide_border=true)
+![Dameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dameerahmedghouri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dameerahmedghouri&layout=compact&theme=tokyonight&hide_border=true)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dameerahmedghouri&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-💬 *Let's connect and build the future of AI together!*
+📫 **Email:** [dameerahmedghouri05@gmail.com](mailto:dameerahmedghouri05@gmail.com)  
+💼 **LinkedIn:** [dameer-ahmed-ghouri-73045131a](https://linkedin.com/in/dameer-ahmed-ghouri-73045131a)  
+🐙 **GitHub:** [github.com/dameerahmedghouri](https://github.com/dameerahmedghouri)
 
+---
+*“Building intelligent, scalable, and autonomous systems for the future.”*
 </div>

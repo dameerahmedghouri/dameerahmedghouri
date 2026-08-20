@@ -31,7 +31,7 @@ I am a **Python Backend & Agentic AI Developer** with strong expertise in buildi
 ## 💼 Professional Experience
 
 ### 🏛️ **Backend / Agentic AI Developer Intern**
-**Bank AL Habib** *(via Teresol)* | *Jun 2026 – Aug 2026*
+**Teresol** *(Client Project: Bank AL Habib)* | *Jun 2026 – Aug 2026*
 
 #### 🎯 **Key Project: Enterprise Webhook Orchestration & Delivery System**
 Architected and implemented a high-performance, fault-tolerant event-driven webhook delivery platform engineered for enterprise banking operations.

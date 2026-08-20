@@ -31,18 +31,17 @@ I am a **Python Backend & Agentic AI Developer** with strong expertise in buildi
 ## 💼 Professional Experience
 
 ### 🏛️ **Backend / Agentic AI Developer Intern**
-**Teresol** *(Client Project: Bank AL Habib)* | *Jun 2026 – Aug 2026*
+**Teresol** | *Jun 2026 – Aug 2026*
 
-#### 🎯 **Key Project: Enterprise Webhook Orchestration & Delivery System**
-Architected and implemented a high-performance, fault-tolerant event-driven webhook delivery platform engineered for enterprise banking operations.
+#### 🎯 **Key Project: Enterprise Webhook Gateway System**
+Designed and built a full-stack, production-ready event-driven Webhook Gateway platform as an official internship project at Teresol ([`internship_project`](https://github.com/dameerahmedghouri/internship_project)).
 
-- **Asynchronous Processing:** Built distributed task queues using **Celery** & **RabbitMQ/Redis** for high-volume webhook delivery with zero blocking.
-- **Resilience & Rate Limiting:** Implemented automatic exponential-backoff retry mechanisms, dead-letter queues (DLQ), and per-client rate-limiting.
-- **Real-Time Client Updates:** Integrated **WebSockets** and **Server-Sent Events (SSE)** for instant delivery tracking and live monitoring dashboards.
-- **Data & Migration Management:** Designed optimized relational database schemas in **PostgreSQL** and managed zero-downtime migrations with **Alembic**.
-- **Containerization & Orchestration:** Fully containerized microservices using **Docker Compose** and deployed staging clusters on **Kubernetes**.
+- **Asynchronous Task Architecture:** Built distributed task queues using **FastAPI**, **Celery**, and **RabbitMQ/Redis** for high-volume webhook delivery and background execution.
+- **Data & Migration Pipeline:** Designed relational schemas using **PostgreSQL** with automated schema migrations via **Alembic**.
+- **Real-Time Dashboards:** Built interactive monitoring UI with **React (Vite)**, **WebSockets**, and **SSE** for live status tracking.
+- **Containerization & Workflows:** Fully containerized microservices using **Docker Compose**, Nginx reverse proxy, and automated Git workflow scripts (`git.sh`).
 
-> **Tech Stack:** `FastAPI` • `Celery` • `RabbitMQ` • `Redis` • `PostgreSQL` • `Alembic` • `WebSockets` • `SSE` • `Docker` • `Kubernetes`
+> **Tech Stack:** `FastAPI` • `Celery` • `RabbitMQ` • `Redis` • `PostgreSQL` • `Alembic` • `React (Vite)` • `Docker Compose` • `Nginx`
 
 ---
 
